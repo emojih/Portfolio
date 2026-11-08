@@ -82,17 +82,26 @@ export const assets = {
 
 export const workData = [
   {
+    title: "Website For Your Perfume Collections",
+    description: "Web Design",
+    bgImage: "/work-1.png",
+    link: "https://poheavscents.com",
+  },
+  {
+    title: "Website For Healthcare Services",
+    description: "Web Design",
+    bgImage: "/work-1.png",
+    link: "http://demosite.solariscareware.com:82",
+  },
+  {
     title: "Music Player App",
     description: "Web Design",
     bgImage: "/work-3.png",
     link: "https://musicplayer-emojih.vercel.app/",
   },
-  {
-    title: "E-Commerce Website",
-    description: "Web Design",
-    bgImage: "/work-1.png",
-    link: "https://forever-frontend-emojih.vercel.app/",
-  },
+
+  // link: "https://forever-frontend-emojih.vercel.app/",
+
   {
     title: "To do app",
     description: "Mobile App",
