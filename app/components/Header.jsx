@@ -36,7 +36,7 @@ const Header = () => {
         transition={{ duration: 0.6, delay: 0.7 }}
         className="max-w-2xl mx-auto font-Ovo"
       >
-        {/* I am a frontend Developer from Lagos, Nigeria with 3 years of experience
+        {/* I am a frontend Developer from Lagos, Nigeria with over 5 years of experience
         in Technocrat. */}
       </motion.p>
 

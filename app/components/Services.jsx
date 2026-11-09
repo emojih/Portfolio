@@ -34,8 +34,10 @@ const Services = () => {
         transition={{ duration: 0.5, delay: 0.7 }}
         className="text-center max-w-2xl mx-auto mt-5 mb-12 font-Ovo"
       >
-        I am a frontend Developer from Lagos, Nigeria with 3 years of experience
-        in Technocrat.
+        I am a frontend Developer from Lagos, Nigeria with over 5 years of
+        experience in building responsive and user-friendly web applications. I
+        specialize in creating visually appealing designs and seamless user
+        experiences that drive engagement and conversions.
       </motion.p>
 
       <motion.div
